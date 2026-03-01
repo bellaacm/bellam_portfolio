@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: #3f3b40;
+  color: #eae6ec;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 60px;
+}
+
+.navigation {
+  color: #E5DDE7;
+  margin: left 3px;
+  font-size: 30px;
+  font-family: monospace;
+}
+
+.nav-header {
+  font-size: 30px;
+  font-weight: bold;
+   font-family: monospace;
+color: #E5DDE7;
+}
+
+body {
+    background-color: #8A7890;
+      }
+
+p  {
+    color: #E5DDE7;
+    font-family: monospace;
+    font-size: 15px;
+      }
