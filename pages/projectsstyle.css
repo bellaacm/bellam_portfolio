@@ -26,6 +26,37 @@
 color: #E5DDE7;
 }
 
+.split {
+  display: flex;
+  height: calc(100vh - 80px); /* Full height minus header */
+}
+
+/* LEFT SIDE */
+.left {
+  flex: 1;
+  background: #a59ba6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 50px;
+}
+
+.text {
+  max-width: 400px;
+  color: #e6dfea;
+  line-height: 1.6;
+}
+
+/* RIGHT SIDE */
+.right {
+  flex: 1;
+background: #8e7b91; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
     background-color: #8A7890;
       }
