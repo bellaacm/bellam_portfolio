@@ -34,7 +34,7 @@ color: #E5DDE7;
 
 .left {
   flex: 1;
-  background: #8e7b91;
+  background: #a59ba6; 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -50,7 +50,7 @@ color: #E5DDE7;
 
 .right {
   flex: 1;
-  background: #a59ba6;
+  background: #8e7b91;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -84,3 +84,7 @@ img {
   justify-content: center;
   align-items: center;
    }
+
+   ul {
+    color:#E5DDE7;
+    }
