@@ -31,9 +31,7 @@ color: #E5DDE7;
   height: 100vh; 
 }
 
-
 .left {
-  flex: 1;
   background: #8e7b91;
   display: flex;
   justify-content: center;
@@ -44,21 +42,22 @@ color: #E5DDE7;
 
 .text {
   max-width: 500px;
-  color: #e6dfea;
   line-height: 1.6;
 }
 
 .right {
-  flex: 1;
-  background: #a59ba6;
+  background: #a59ba6; 
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  padding: 180px;
 }
 
 body {
-    background-color: #8A7890;
-      }
+  background-color: #a59ba6;
+  }
+
 h1 { 
   font-family: monospace;
   color: #3f3b40;
@@ -76,3 +75,14 @@ a {
   color: #E5DDE7;
   font-size: 30px;
    }
+
+li  {
+  color:#a59ba6;
+   }
+
+
+
+
+
+
+   

@@ -31,9 +31,7 @@ color: #E5DDE7;
   height: 100vh; 
 }
 
-
 .left {
-  flex: 1;
   background: #a59ba6; 
   display: flex;
   justify-content: center;
@@ -44,16 +42,15 @@ color: #E5DDE7;
 
 .text {
   max-width: 500px;
-  color: #e6dfea;
   line-height: 1.6;
 }
 
 .right {
-  flex: 1;
-  background: #8e7b91;
-  display: flex;
+ display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  padding: 50px;
 }
 
 body {
@@ -77,10 +74,10 @@ a {
   font-size: 30px;
    }
 
-img {
-  width: 350px;
+   img {
+  width: 370px;
   height: 240px;
-   display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
    }
