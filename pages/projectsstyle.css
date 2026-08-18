@@ -65,18 +65,18 @@ h1 {
 p {
     color: #E5DDE7;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 18px;
       }
 
 a {
    font-family: monospace;
   color: #E5DDE7;
-  font-size: 30px;
+  font-size: 27px;
    }
 
    img {
-  width: 370px;
-  height: 240px;
+  width: 410px;
+  height: 260px;
   display: flex;
   justify-content: center;
   align-items: center;
